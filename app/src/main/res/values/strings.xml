@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Conv_galao/litro</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="gal">Galão</string>
+    <string name="litro">Litros</string>
+    <string name="butao1">Calcular</string>
+    <string name="result">Resultado</string>
+</resources>
